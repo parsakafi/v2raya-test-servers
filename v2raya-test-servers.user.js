@@ -5,8 +5,8 @@
 // @author        parsa-kafi
 // @copyright     2025, Parsa Kafi (https://parsa.ws)
 // @updateURL     https://openuserjs.org/meta/parsa-kafi/v2raya-test-servers.meta.js
-// @homepageURL   https://github.com/parsakafi/V2RayA-Test-Servers
-// @contributionURL https://github.com/parsakafi/V2RayA-Test-Servers
+// @homepageURL   https://github.com/parsakafi/v2raya-test-servers
+// @contributionURL https://github.com/parsakafi/v2raya-test-servers
 // @supportURL    https://github.com/parsakafi/v2raya-test-servers/issues
 // @match         *://192.168.10.1/*
 // @require       https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js
