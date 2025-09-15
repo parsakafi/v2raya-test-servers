@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name          V2RayA Test Servers
 // @description   Add test button for check V2RayA servers
+// @namespace    https://openuserjs.org/users/parsa-kafi
 // @author        parsa-kafi
 // @copyright     2025, Parsa Kafi (https://parsa.ws)
 // @homepageURL   https://github.com/parsakafi/V2RayA-Test-Servers
