@@ -4,9 +4,11 @@
 // @author        parsa-kafi
 // @copyright     2025, Parsa Kafi (https://parsa.ws)
 // @homepageURL   https://github.com/parsakafi/V2RayA-Test-Servers
+// @contributionURL https://github.com/parsakafi/V2RayA-Test-Servers
+// @supportURL    https://github.com/parsakafi/v2raya-test-servers/issues
 // @match         *://192.168.10.1/*
 // @require       https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js
-// @version       1.0
+// @version       1.0.0
 // @grant         none
 // @run-at        document-idle
 // @icon          https://www.google.com/s2/favicons?domain=v2raya.org
