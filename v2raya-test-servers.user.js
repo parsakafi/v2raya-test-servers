@@ -8,7 +8,7 @@
 // @homepageURL   https://github.com/parsakafi/v2raya-test-servers
 // @contributionURL https://github.com/parsakafi/v2raya-test-servers
 // @supportURL    https://github.com/parsakafi/v2raya-test-servers/issues
-// @match         *://192.168.10.1/*
+// @match         *://192.168.[0-9]{1,3}.[0-9]{1,3}/*
 // @require       https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js
 // @version       1.0.0
 // @grant         none
