@@ -36,7 +36,7 @@ window.addEventListener('load', function () {
         console.info('Server count: ' + tabTable.find('tbody tr').length);
         tabTable.find('tbody tr').each(function () {
           serverProtocol = $(this).find('td[data-label="Protocol"]').text();
-          if (!serverProtocol.includes('xhttp') && !serverProtocol.includes('httpupgrade')) {
+          if (!serverProtocol.includes('xhttp') && !serverProtocol.includes('httpupgrade') && !serverProtocol.includes('Telegram')) {
             $(this).find('label.b-checkbox').trigger('click');
           }
         });
