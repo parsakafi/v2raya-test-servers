@@ -10,7 +10,7 @@
 // @supportURL    https://github.com/parsakafi/v2raya-test-servers/issues
 // @match         *://192.168.[0-9]{1,3}.[0-9]{1,3}/*
 // @require       https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js
-// @version       1.0.0
+// @version       1.0.1
 // @grant         none
 // @run-at        document-idle
 // @icon          https://www.google.com/s2/favicons?domain=v2raya.org
